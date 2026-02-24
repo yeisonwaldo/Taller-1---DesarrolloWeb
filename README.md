@@ -119,13 +119,3 @@ Desarrollo Web/
 - **`Object.keys()`, `Object.values()`, `Object.entries()`**: itera e imprime propiedades de un objeto plano.
 - **Copia por referencia vs. por valor**: demuestra la diferencia entre asignación directa, `Object.assign()`, spread (`...`) y copia profunda con `JSON.parse(JSON.stringify(...))`.
 
----
-
-## Integrantes del grupo
-
-| #   | Nombre completo |
-| --- | --------------- |
-| 1   |                 |
-| 2   |                 |
-| 3   |                 |
-| 4   |                 |
